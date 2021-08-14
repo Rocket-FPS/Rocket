@@ -16,15 +16,16 @@ Take the chance to **LEARN** so you don't end up being a Skid so you can **IMPRO
 Enjoy :)
 
 ## Information:
-- [Discord Server](https://discord.gg/XPj6aXPJyh)
+- [Discord Server](https://discord.gg/rocketfn)
 - [Website](https://rocketfps.herokuapp.com/)
 
 ## Credits:
-GD: Backend
+GD: DLL & Maintainer
 <br>
-irish: Backend
+Mjay: DLL
+<br>
+irish: Frontend
 <br>
 !Sky: Backend
 <br>
-Zinx: Backend
-
+Zinx: Frontend & Backend
